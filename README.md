@@ -1,25 +1,17 @@
-# Tandemloop Screening Test
+# Ram Charan Kondeti
 
-## Candidate Name
-Ram Charan Kondeti
+Language used: Java
 
-## Language Used
-Java
+How to run:
 
-How to Run
+1. Compile:
+   javac Tandemloop/Problem1.java
+   javac Tandemloop/Problem2.java
+   javac Tandemloop/Problem3.java
+   javac Tandemloop/Problem4.java
 
-### Problem 1
-javac Problem1.java
-java Problem1
-
-### Problem 2
-javac Problem2.java
-java Problem2
-
-### Problem 3
-javac Problem3.java
-java Problem3
-
-### Problem 4
-javac Problem4.java
-java Problem4
+2. Run:
+   java Tandemloop.Problem1
+   java Tandemloop.Problem2
+   java Tandemloop.Problem3
+   java Tandemloop.Problem4
